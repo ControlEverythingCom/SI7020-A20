@@ -1,0 +1,7 @@
+{
+    "name": "SI7020-A20_CE",
+    "version": "1.0.0",
+    "author": "Travis Elliott <travis@controlanything.com>",
+    "license": "GNU",
+    "description": "Library intended for the operation of www.ControlEverything.com SI7020-A20 temperature sensor Mini module"
+}
