@@ -2,7 +2,7 @@
 #include "spark_wiring_i2c.h"
 #include "spark_wiring_constants.h"
 
-class SI7020_A20{
+class SI7020_A20_CE{
 public:
     double temperatureC();
     double temperatureF();
